@@ -13,3 +13,4 @@ function generatePaginationConfig(paginationData) {
 		selectedPage: paginationData.selectedPage,
 		total: paginationData.total
 	};
+}
